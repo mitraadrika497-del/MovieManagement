@@ -1,8 +1,8 @@
-Movie Ticket Booking System
+##Movie Ticket Booking System
 
 This is a simple Python project for booking movie tickets using the command line.
 
-Requirements
+#Requirements
 
 Python 3
 
